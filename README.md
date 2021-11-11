@@ -40,3 +40,24 @@ Repository for my 2021 30 day map challenge code
 <img src="Day_8.png" alt="West Slope Crop predictions" width="700"/>
 
 ---
+
+### Day 9
+<img src="Day_9.png" alt="Colorado PV map" width="700"/>
+
+---
+
+### Day 10
+<img src="Day_10.png" alt="Satellite raster image" width="700"/>
+
+---
+
+### Day 11
+<img src="Day_11.png" alt="3D Map" width="700"/>
+
+---
+
+### Day 12
+<img src="Day_12.png" alt="Population" width="700"/>
+
+---
+
