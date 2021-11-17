@@ -52,7 +52,7 @@ Repository for my 2021 30 day map challenge code
 ---
 
 ### Day 11
-<img src="Day_11.png" alt="3D Map" width="700"/>
+<img src="Day_11.PNG" alt="3D Map" width="700"/>
 
 ---
 
@@ -65,7 +65,7 @@ Repository for my 2021 30 day map challenge code
 
 ---
 ### Day 14
-<img src="Day_14.png" alt="A map with Julia" width="700"/>
+<img src="Day_14.PNG" alt="A map with Julia" width="700"/>
 
 ---
 ### Day 15
