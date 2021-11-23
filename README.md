@@ -92,5 +92,43 @@ Repository for my 2021 30 day map challenge code
 <img src="Day_20.png" alt="Movement" width="700"/>
 
 ---
+### Day 21
+<img src="Day_21.png" alt="Elevation" width="700"/>
 
+---
+### Day 22
+<img src="Day_22.png" alt="Boundaries" width="700"/>
 
+---
+### Day 23
+<img src="Day_23.png" alt="Global Human Settlement" width="700"/>
+
+---
+### Day 24
+<img src="Day_24.png" alt="Historical" width="700"/>
+
+---
+### Day 25
+<img src="Day_25.png" alt="Interactive" width="700"/>
+
+---
+### Day 26
+<img src="Day_26.png" alt="Choropleth" width="700"/>
+
+---
+### Day 27
+<img src="Day_27.png" alt="Heatmap" width="700"/>
+
+---
+### Day 28
+<img src="Day_28.png" alt="Not Flat" width="700"/>
+
+---
+### Day 29
+<img src="Day_29.png" alt="Null" width="700"/>
+
+---
+### Day 30
+<img src="Day_30.png" alt="Metamapping" width="700"/>
+
+---
