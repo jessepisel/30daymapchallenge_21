@@ -89,7 +89,7 @@ Repository for my 2021 30 day map challenge code
 
 ---
 ### Day 20
-<img src="Day_20.png" alt="Movement" width="700"/>
+<img src="Day_20.gif" alt="Movement" width="700"/>
 
 ---
 ### Day 21
