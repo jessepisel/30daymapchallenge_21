@@ -121,7 +121,7 @@ Repository for my 2021 30 day map challenge code
 
 ---
 ### Day 28
-<img src="Day_28.png" alt="Not Flat" width="700"/>
+<img src="Day_28.PNG" alt="Not Flat" width="700"/>
 
 ---
 ### Day 29
